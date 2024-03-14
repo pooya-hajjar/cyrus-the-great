@@ -1,0 +1,14 @@
+
+.main{
+    /* margin-top: 20%; */
+    background-color: #1f1f1fe1;
+    width: 100%;
+}
+
+.main>pre{
+    background-color: #1f1f1fe1;
+}
+
+.main>pre>b{
+    opacity: 0;
+}
