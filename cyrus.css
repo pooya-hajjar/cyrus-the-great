@@ -1,12 +1,15 @@
 
 .main{
-    /* margin-top: 20%; */
     background-color: #1f1f1fe1;
-    width: 100%;
+    width: 100vw;
+    height: 100vh;
 }
 
 .main>pre{
-    background-color: #1f1f1fe1;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
 }
 
 .main>pre>b{
