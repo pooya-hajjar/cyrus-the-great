@@ -6,6 +6,7 @@
 }
 
 .main>pre{
+    user-select: none;
     position: fixed;
     top: 50%;
     left: 50%;
